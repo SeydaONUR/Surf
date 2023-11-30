@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/Pipeline.unity
+    guid: 23014986916aabf418b97b4f27ae5f28
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/Bathroom.unity
+    guid: ec5ad6bf340e5d0438f7cd28c1d0ea21
+  - enabled: 1
+    path: Assets/Scenes/Antre/Antre_bath.unity
+    guid: 4a2cc418986899c419528de9a0c862f0
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/Bedroom.unity
+    guid: 468d268efc39dbd4281fd706179d0a2e
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/Babyroom.unity
+    guid: c1622091493950d4d849e0a803bd09ab
+  - enabled: 1
+    path: Assets/Scenes/Girl's_room.unity
+    guid: e27c96e7f0b9fd8449b65ab37302c742
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/Kitchen.unity
+    guid: 9dfb94ce988d51e479a8a11b1c639a6f
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/Antre.unity
+    guid: 53db77463b74c5d4ebb4095320ad312b
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/antre_bed.unity
+    guid: e99d15a6b29ad494db0aeca84aafb0b4
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/Antre_girl.unity
+    guid: 3fd77c1eb7be29f47bd6f1d5fe7707d2
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/Outside.unity
+    guid: 3b8bb9404fd3bb24ab8f70a1549a8a5d
+  m_configObjects: {}
